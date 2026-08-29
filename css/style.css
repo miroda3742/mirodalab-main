@@ -34,6 +34,13 @@ a:hover { text-decoration: underline; }
 
 img { max-width: 100%; display: block; }
 
+.image-container {
+      display: flex;
+      justify-content: center; /* Centers horizontally */
+      align-items: center;     /* Centers vertically */
+      min-height: 100vh;       /* Makes container full page height */
+    }
+
 .wrap {
   max-width: var(--max-width);
   margin: 0 auto;
