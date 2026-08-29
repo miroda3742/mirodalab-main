@@ -34,7 +34,7 @@ a:hover { text-decoration: underline; }
 
 img { max-width: 100%; display: block; }
 
-.image-container {
+.logo-container {
       display: flex;
       justify-content: center; /* Centers horizontally */
       align-items: center;     /* Centers vertically */
